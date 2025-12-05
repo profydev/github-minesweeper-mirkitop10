@@ -1,4 +1,5 @@
 {
-  "commands": [Clear A8]
-
+  "commands": [
+    "clear A8"
+  ]
 }
